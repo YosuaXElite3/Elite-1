@@ -12,7 +12,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
-$ git clone https://github.com/YosuaXElite3/Elite3
+$ git clone https://github.com/YosuaXElite3/Elite2
 ```
 ### And Cr4ck this script
 ```bash
