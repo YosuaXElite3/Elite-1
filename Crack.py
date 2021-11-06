@@ -16,6 +16,6 @@ $ git clone https://github.com/YosuaXElite3/Elite2
 ```
 ### And Cr4ck this script
 ```bash
-$ cd Elite3
+$ cd Elite2
 $ git pull
 $ python Elite3.py
