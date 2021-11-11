@@ -6,7 +6,6 @@ from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from bs4 import BeautifulSoup as parser
 from datetime import date
 from datetime import datetime
-
 # -*- coding: utf-8 -*-
 
 def croot():
