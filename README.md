@@ -56,7 +56,7 @@ $ git clone https://github.com/YosuaXElite3/Elite-1
 ### And Cr4ck this script
 ```bash
 $ cd Elite1
-$ bash setup.sh
+$ bash Setup.sh
 $ python Elite-1.py
 ```
 
