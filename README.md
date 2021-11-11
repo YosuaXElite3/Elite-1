@@ -8,32 +8,32 @@ Elite multi brute force
     YOSUA WAURAN
 </h4>
 <p align="center">
-<a href="#"><img title="Author by yosua wauran" src="https://img.shields.io/badge/Coded%20By-yosuaXElite3-brightgreen?"></a>
+<a href="#"><img title="Author by yosua wauran" src="https://img.shields.io/badge/Coded%20By-YosuaXElite3-brightgreen?"></a>
 <a href="#"><img title="Author by yosuaXElite3" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 <br>
 <a href="https://github.com/YosuaXElite3/Elite2/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/yosuaXElite3?label=Followers&color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/YosuaXElite3?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/yosuaXElite3/termux-style/stargazers/">
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yosuaXElite3/Elite2.svg"/>
+    <img alt="Last Commit" src="https://img.shields.io/github.com/YosuaXElite3/Elite-1.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/yosuaXElite3/Elite2.svg"/>
+    <img alt="Language" src="https://img.shields.io/github.com/YosuaXElite3/Elite-1.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/yosuaXElite3/Elite-1.svg"/>
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/YosuaXElite3/Elite-1.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Search" src="https://github.com/YosuaXElite3/Elite2.svg"/>
+    <img alt="Search" src="https://github.com/YosuaXElite3/Elite-1.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2/tree/main">
-    <img alt="Repo Size" src="https://github.com/YosuaXElite3/Elite2/tree/main.svg"/>
+    <img alt="Repo Size" src="https:/github.com/YosuaXElite3/Elite-1/tree/main.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Starts" src="https://github.com/YosuaXElite3/Elite2/tree/main.svg"/>
+    <img alt="Starts" src="https://github.com/YosuaXElite3/Elite-1/main.svg"/>
   </a>
   <a href="https://github.com/YosuaXElite3/Elite2">
-    <img alt="Forks" src="https://img.shields.io/github.com/YosuaXElite3/Elite2.svg"/>
+    <img alt="Forks" src="https://img.shields.io/github.com/YosuaXElite3/Elite-1.svg"/>
   </a>
 </div>
 <p align="center">
@@ -51,13 +51,13 @@ Elite multi brute force
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
-$ git clone https://github.com/YosuaXElite3/Elite2
+$ git clone https://github.com/YosuaXElite3/Elite-1
 ```
 ### And Cr4ck this script
 ```bash
-$ cd Elite2
+$ cd Elite1
 $ bash setup.sh
-$ python Elite2.py
+$ python Elite-1.py
 ```
 
 ### Screenshot
