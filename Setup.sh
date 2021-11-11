@@ -70,5 +70,5 @@ echo
 echo
 echo "       [√] install commando done..."
 echo
-echo "     type python Elite2.py to continue "
+echo "     type python Elite-1.py Ketik "
 echo
